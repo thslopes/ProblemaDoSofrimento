@@ -8,6 +8,6 @@ http://pt.slideshare.net/thslopes
 
 Thslopes@gmail.com
 
-HTTP://FB.COM/thsolo
+http://FB.COM/thsolo
 
-HTTP://Tslopes.blogspot.com
+http://Tslopes.blogspot.com
