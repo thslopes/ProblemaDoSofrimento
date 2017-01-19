@@ -121,19 +121,15 @@ Uma observação é muito importante neste ponto.
 ### Cristo mostrou que vale a pena suportar o sofrimento
 >"Seja a atitude de vocês a mesma de Cristo Jesus, que, embora sendo Deus, não considerou que o ser igual a Deus era algo a que devia apegar-se; mas esvaziou-se a si mesmo, vindo a ser servo, tornando-se semelhante aos homens. E, sendo encontrado em forma humana, humilhou-se a si mesmo e foi obediente até a morte, e morte de cruz! Por isso Deus o exaltou à mais alta posição e lhe deu o nome que está acima de todo nome, para que ao nome de Jesus se dobre todo joelho, nos céus, na terra e debaixo da terra, e toda língua confesse que Jesus Cristo é o Senhor, para a glória de Deus Pai." (Filipenses 2:5-11 NVI)
 
-## O Sofrimento Para o Cristão
+# O Sofrimento Para o Cristão
 1. Há razão para o sofrimento
 2. Não há injustiça no sofrimento
 
-### Há razão para o sofrimento 
-
-1. Aprendemos com o sofrimento 
-2. "O sofrimento é o megafone de Deus" (C. S. Lewis)
+## Há razão para o sofrimento 
 
 ### Aprendemos com o Sofrimento
 >"Não só isso, mas também nos gloriamos nas tribulações, porque sabemos que a tribulação produz perseverança; a perseverança, um caráter aprovado; e o caráter aprovado, esperança." (Romanos 5:3-4 NVI)
 
-### Aprendemos com o Sofrimento
 >"Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações, pois vocês sabem que a prova da sua fé produz perseverança. E a perseverança deve ter ação completa, a fim de que vocês sejam maduros e íntegros, sem que falte a vocês coisa alguma... Feliz é o homem que persevera na provação, porque depois de aprovado receberá a coroa da vida, que Deus prometeu aos que o amam." (Tiago 1:2-4, 12 NVI)
 
 ### "O sofrimento é o megafone de Deus" (C. S. Lewis)
