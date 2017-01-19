@@ -151,7 +151,11 @@ A história de Israel, assim como a da Igreja, nos mostra que sempre que há per
 >"Ouvi uma forte voz que vinha do trono e dizia: 'Agora o tabernáculo de Deus está com os homens, com os quais ele viverá. Eles serão os seus povos; o próprio Deus estará com eles e será o seu Deus. Ele enxugará dos seus olhos toda lágrima. Não haverá mais morte, nem tristeza, nem choro, nem dor, pois a antiga ordem já passou'." (Apocalipse 21:3-4 NVI)
 
 O Problema do Sofrimento Perspectiva Bíblica
+
 Thiago Soares Lopes
+
 fb.com/thsolo
+
 http://pt.slideshare.net/thslopes
+
 Esboço http://tslopes.blogspot.com/2015/02/o-problema-do- sofrimento-perspectiva.html
