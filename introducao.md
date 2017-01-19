@@ -158,4 +158,4 @@ fb.com/thsolo
 
 http://pt.slideshare.net/thslopes
 
-Esboço http://tslopes.blogspot.com/2015/02/o-problema-do- sofrimento-perspectiva.html
+Esboço http://tslopes.blogspot.com/2015/02/o-problema-do-sofrimento-perspectiva.html
