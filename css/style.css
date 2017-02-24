@@ -1,9 +1,50 @@
 body {
+  background: #dcb080;
+  overflow-x: hidden;
+  margin: 5px;
+}
+
+div {
+  min-height: 100vh;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo1 {
+  font-size: 4rem;
+}
+
+.titulo2 {
+  font-size: 3rem;
+}
+
+.titulo3 {
+  font-size: 2.5rem;
+}
+
+.text, .bible {
+  max-width: 700px;
+}
+
+.text {
+  font-size: 1.8rem;
+  color: #440000;
+}
+
+.bible {
+  font-size: 1.8rem;
+  color: #440000;
+  font-style: italic;
+}
+
+/*body {
   overflow-x: hidden;
 }
 
 section {
-  /*height: 100vh;*/
   width: 100%;
   text-align: center;
 }
@@ -94,4 +135,4 @@ div span {
     color: #440000;
   }
 
-}
+}*/
