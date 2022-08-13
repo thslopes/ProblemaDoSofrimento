@@ -132,6 +132,7 @@ func buildEffectiveGo() error {
 	}
 
 	e.SetIdentifier(id)
+	e.SetAuthor("Thiago Lopes")
 
 	err = e.Write(fileName)
 	if err != nil {
