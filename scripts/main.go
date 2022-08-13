@@ -56,24 +56,20 @@ func buildEffectiveGo() error {
 	sections := []*epubSection{}
 	var section *epubSection
 	var subSection *epubSection
-	var innerSection *epubSection
 
 	for _, line := range strings.Split(string(r), "\n") {
 		switch {
 		case line == "## Introdução" && !fullVersion, len(strings.ReplaceAll(line, " ", "")) == 0:
 			continue
 		case strings.HasPrefix(line, "# "):
-			subSection = nil
-			innerSection = nil
 			section, line = buildSection(line, "# ", "<h1>%s</h1>")
 			sections = append(sections, section)
 		case strings.HasPrefix(line, "## "):
-			innerSection = nil
-			subSection, line = buildSection(line, "## ", "<h2>%s</h2>")
-			section.subSections = append(section.subSections, subSection)
+			section, line = buildSection(line, "## ", "<h2>%s</h2>")
+			sections = append(sections, section)
 		case strings.HasPrefix(line, "### "):
-			innerSection, line = buildSection(line, "### ", "<h3>%s</h3>")
-			section.subSections = append(section.subSections, innerSection)
+			subSection, line = buildSection(line, "### ", "<h3>%s</h3>")
+			section.subSections = append(section.subSections, subSection)
 		case strings.HasPrefix(line, ">"):
 			line = fmt.Sprintf("<h4>%s</h4>", line[1:])
 		case fullVersion:
@@ -82,12 +78,9 @@ func buildEffectiveGo() error {
 			line = ""
 		}
 
-		switch {
-		case innerSection != nil:
-			innerSection.text = append(innerSection.text, line)
-		case subSection != nil:
+		if len(section.subSections) > 0 {
 			subSection.text = append(subSection.text, line)
-		default:
+		} else {
 			section.text = append(section.text, line)
 		}
 	}
