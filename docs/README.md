@@ -1,4 +1,4 @@
-# Uma Perspectiva Bíblica
+# O Problema do Sofrimento Uma Perspectiva Bíblica
 ## Introdução
 
 Se Deus é bom, como pode haver tanto sofrimento no mundo? Deus criou o mundo com tanta dor e sofrimento?
