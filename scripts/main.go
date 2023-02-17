@@ -17,7 +17,7 @@ const (
 	epubFilename       = "problemaDoSofrimentoComentado.epub"
 	epubTitle          = "O Problema do Sofrimento - Uma Perspectiva Bíblica"
 	epubTitleFilename  = "title.xhtml"
-	mdUrl              = "../docs/README.md"
+	mdUrl              = "resumido.md"
 	epubCSSFile        = "ebub.css"
 	epubId             = "e2961d9db6194dc584ad206344c94023tsl"
 	epubSimpleId       = "f695849e3d8942adaa44686408869317tsl"
