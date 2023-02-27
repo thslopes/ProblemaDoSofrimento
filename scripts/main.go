@@ -59,7 +59,7 @@ func buildEffectiveGo() error {
 
 	for _, line := range strings.Split(string(r), "\n") {
 		switch {
-		case line == "## Introdução" && !fullVersion, len(strings.ReplaceAll(line, " ", "")) == 0:
+		case len(strings.ReplaceAll(line, " ", "")) == 0:
 			continue
 		case strings.HasPrefix(line, "# "):
 			section, line = buildSection(line, "# ", "<h1>%s</h1>")
@@ -72,10 +72,8 @@ func buildEffectiveGo() error {
 			section.subSections = append(section.subSections, subSection)
 		case strings.HasPrefix(line, ">"):
 			line = fmt.Sprintf("<h4>%s</h4>", line[1:])
-		case fullVersion:
-			line = fmt.Sprintf("<p>%s</p>", line)
 		default:
-			line = ""
+			line = fmt.Sprintf("<p>%s</p>", line)
 		}
 
 		if len(section.subSections) > 0 {
@@ -86,24 +84,12 @@ func buildEffectiveGo() error {
 	}
 
 	e := epub.NewEpub(epubTitle)
-	// effectiveGoCoverImgPath, err := filepath.Abs(effectiveGoCoverImg)
-	// effectiveGoCoverImgPath, err := e.AddImage(effectiveGoCoverImg, "cover.png")
-	// if err != nil {
-	// return err
-	// }
-	// e.SetCover(effectiveGoCoverImgPath, "")
 
 	epubCSSPath, err = e.AddCSS(epubCSSFile, "")
 	if err != nil {
 		return err
 	}
 
-	// _, err = e.AddFont(preFontFile, "")
-	// if err != nil {
-	// return err
-	// }
-
-	// Iterate through each section and add it to the EPUB
 	for _, section := range sections {
 		sectionContent := ""
 		for _, sectionNode := range section.text {
