@@ -1,12 +1,8 @@
 # O Problema do Sofrimento Perspectiva Bíblica
 
 ## Introdução
-Uma das principais dificuldades do cristão é entender e aceitar o sofrimento humano. Nenhum cristão verdadeiro fica indiferente ao sofrimento humano, e todos, em momentos de grande sofrimento, já se questionaram quanto ao amor ou fidelidade de Deus.
-
-Mesmo na Bíblia encontramos grandes heróis da Fé em situações embaraçosas em meio ao sofrimento. Como Jó, se declarando injustiçado por Deus, Habacuque com seu famoso “até quando?”, Elias pedindo para morrer, e o próprio Jesus exclamando “Por quê me desamparastes?”.
-
-A Bíblia nos mostra, entretanto, que Deus não nos fez para vivermos desta forma. Sofremos, justamente, por nos afastarmos Dele. Deus também proveu um meio, por seu próprio sacrifício, de nos livrar de todo sofrimento.
-
+O problema do sofrimento, ou, por que Deus permite o sofrimento, ou ainda, como pode existir sofrimento se Deus é bom, é uma questão que sempre me chamou atenção. Não faz sentido tentar convencer alguém que sofre de que o sofrimento é justo, nesses casos tudo o que o podemos oferecer é amor e compreensão, mas a título de estudo considero um caso relevante. além disso, posso dizer que ter a consciência de que Deus não me dá as costas e até entende meu sofrimento, me trás bastante conforto em momentos difíceis.
+Espero você também possa encontrar o conforto de saber que Deus se importa, sim, com você.
 ## Deus criou um mundo perfeito
 Quando penso sobre o sofrimento humano uma das questões que vem a  minha mente é "Se Deus é bom e todo-poderoso por que ele não fez o mundo perfeito?" Mas o que encontramos na Bíblia é que Deus fez um mundo perfeito.
 
