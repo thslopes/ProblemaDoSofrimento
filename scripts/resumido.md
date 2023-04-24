@@ -2,11 +2,11 @@
 Thiago Lopes
 
 ## Introdução
-O problema do sofrimento, ou, por que Deus permite o sofrimento, ou ainda, como pode existir sofrimento se Deus é bom, é uma questão que sempre me chamou atenção. Não faz sentido tentar convencer alguém que sofre de que o sofrimento é justo, nesses casos tudo o que o podemos oferecer é amor e compreensão, mas a título de estudo considero um caso relevante. além disso, posso dizer que ter a consciência de que Deus não me dá as costas e até entende meu sofrimento, me traz bastante conforto em momentos difíceis.
+O problema do sofrimento, ou, por que Deus permite o sofrimento, ou ainda, como pode existir sofrimento se Deus é bom, são questões que sempre me chamaeam a atenção. Não é o objetivo tentar convencer alguém que sofre de que o sofrimento é justo, nesses casos tudo o que o podemos oferecer é amor e compreensão, mas a título de estudo considero um caso relevante. além disso, posso dizer que ter a consciência de que Deus não me dá as costas e até entende meu sofrimento, me traz bastante conforto em momentos difíceis.
 
 Espero que você também possa encontrar o conforto de saber que Deus se importa, sim, com você.
 ## Deus criou um mundo perfeito
-Quando penso sobre o sofrimento humano uma das questões que vêm à minha mente é "Se Deus é bom e todo-poderoso por que ele não fez o mundo perfeito?" Mas o que encontramos na Bíblia é que Deus fez um mundo perfeito.
+Quando penso sobre o sofrimento humano uma das questões que vêm à minha mente é "Se Deus é bom e todo-poderoso por que ele não fez o mundo perfeito?", mas o que encontramos na Bíblia é que Deus  criou um mundo perfeito.
 
 ### Deus criou tudo muito bom
 >"E Deus viu tudo o que havia feito, e tudo havia ficado muito bom. Passaram-se a tarde e a manhã; esse foi o sexto dia." (Gênesis 1:31 NVI)
