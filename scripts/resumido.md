@@ -123,7 +123,7 @@ Deus não exige de nós algo que a Ele mesmo não esteja disposto a fazer! Não 
 
 >"Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações, pois vocês sabem que a prova da sua fé produz perseverança. E a perseverança deve ter ação completa, a fim de que vocês sejam maduros e íntegros, sem que falte a vocês coisa alguma... Feliz é o homem que persevera na provação, porque depois de aprovado receberá a coroa da vida, que Deus prometeu aos que o amam." (Tiago 1:2-4, 12 NVI)
 
-Uma coisa importante que os apóstolos entenderam e escreveram nós é que o sofrimento produz algo em nós. Não simples ou óbvio, mas o sofrimento nos faz amadurecer.
+Uma coisa importante que os apóstolos entenderam e escreveram para nós é que o sofrimento produz algo em nós. Não simples ou óbvio, mas o sofrimento nos faz amadurecer.
 ### O sofrimento nos mostra o que é a vida sem Deus
 >"Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, que não muda como sombras inconstantes." (Tiago 1:17 NVI)
 
