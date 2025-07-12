@@ -5,7 +5,7 @@ muito bom.
 
 Gênesis 1:31
 
-###Deus criou tudo muito bom
+### Deus criou tudo muito bom
 Se Deus é tão bom, por que o mundo  não é perfeito? Será que há alguém que nunca tenha se perguntado isso?
 
 Quando me fiz essa pergunta a resposta que logo me veio à mente é a que provavelmente vem à mente da maioria dos cristãos: o mundo não é perfeito por causa do pecado. Mas isso não responde realmente a pergunta. Por que Deus fez este mundo com pecados? Por que Deus Ele não fez um mundo onde as pessoas fossem perfeitas e vivessem uma vida perfeita e sem pecado?
