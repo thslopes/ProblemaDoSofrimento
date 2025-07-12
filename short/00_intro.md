@@ -13,3 +13,5 @@ Se faz presente ao encarnar e viver como nós, para poder dizer "Eu sei o que vo
 Se faz presente ao enviar o Seu Espírito, não à toa chamado por Cristo de "Consolador".
 
 Mas... se assim como eu você gosta de estudar e entender as questões à luz da Palavra de Deus, gostaria de compartilhar com você algumas respostas que encontrei na Bíblia. E se há respostas é porque houveram perguntas, e a primeira delas é: "Se Deus é bom, por que criou um mundo tão mau?".
+
+[seguinte](01_mundo_perfeito.md)
